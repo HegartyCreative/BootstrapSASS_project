@@ -1,0 +1,22 @@
+.top{
+    margin-top: 50px;
+}
+
+.panel-heading h4{
+    color: #ffffff;
+}
+
+
+.panel-heading{
+    background-color: $mainColour;
+}
+
+.title-bar{
+    background: url('../images/hero.jpg') no-repeat 0 0;
+    height: auto;
+    background-size: cover;
+    padding: 80px 0px 150px 0px;
+    color: #fff;
+    border-bottom: 2px solid $mainColour;
+    margin-bottom: 40px;
+}

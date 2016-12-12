@@ -1,0 +1,29 @@
+.navbar{
+
+    margin-bottom: 0;
+
+    a{
+    color: set-text-color($mainColour) !important;
+    }
+
+    .fa {
+        font-size: 18px;
+    }
+}
+
+.showcase{
+    background: url('../images/hero.jpg') no-repeat 0 0;
+    height: auto;
+    background-size: cover;
+    padding: 80px 0px 150px 0px;
+    color: #fff;
+
+    .text-container{
+        background: rgba(0, 0, 0, 0.5);
+        padding: 10px 30px 30px 30px;
+    }
+
+    h1{
+
+    }
+}

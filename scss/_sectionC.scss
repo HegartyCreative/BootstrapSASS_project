@@ -1,0 +1,10 @@
+.section-c{
+    padding: 30px 0px;
+    text-align: center;
+    background-color: $mainColour;
+    color: #ffffff;
+
+    .btn-primary{
+        background-color: darken($mainColour, 10%);
+    }
+}
